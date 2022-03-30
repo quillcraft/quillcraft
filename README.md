@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @quillcraft
+- 👋 Hi, I’m Anton Mizinov or @quillcraft
 - 👀 I’m interested in infographics & data visualization
-- 📫 How to reach me — mizinov.anton@gmail.com
