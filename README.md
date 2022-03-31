@@ -1,4 +1,6 @@
-Hi I’m Anton Mizinov. I’m interested in infographics and data visualization.
+Hi, I’m Anton Mizinov.
+
+I’m interested in infographics and data visualization.
 
 ## My projects (design & development)
 - [Death Rate in Russia](https://mizinov.pro/deaths-in-russia/en/)
