@@ -1,7 +1,6 @@
-# Hi, I’m Anton Mizinov
-I’m interested in infographics & data visualization
+Hi I’m Anton Mizinov. I’m interested in infographics and data visualization.
 
-## My projects:
+## My projects (design & development)
 - [Death Rate in Russia](https://mizinov.pro/deaths-in-russia/en/)
 - [Pandemic Covid-19](https://mizinov.pro/covid/en/)
 - [It’s your turn, Leonov!](https://leonov-in-space.tass.com/)
@@ -11,7 +10,7 @@ I’m interested in infographics & data visualization
 - [1812: When Napoleon Ventured East](https://1812.tass.ru/en)
 - [Astronauts](https://spacemen.tass.ru/en)
 
-## My social media:
+## My social media
 - [Facebook](https://www.facebook.com/anton.mizinov)
 - [Twitter](https://twitter.com/anton_mizinov)
 - [Instagram](https://www.instagram.com/quillcraft)
