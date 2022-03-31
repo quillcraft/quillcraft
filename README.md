@@ -1,5 +1,5 @@
-👋 Hi, I’m Anton Mizinov or @quillcraft
-👀 I’m interested in infographics & data visualization
+# Hi, I’m Anton Mizinov
+I’m interested in infographics & data visualization
 
 ## My projects:
 - [Death Rate in Russia](https://mizinov.pro/deaths-in-russia/en/)
