@@ -1,7 +1,7 @@
 👋 Hi, I’m Anton Mizinov or @quillcraft
 👀 I’m interested in infographics & data visualization
 
-##Projects:
+## My projects:
 - [Death Rate in Russia](https://mizinov.pro/deaths-in-russia/en/)
 - [Pandemic Covid-19](https://mizinov.pro/covid/en/)
 - [It’s your turn, Leonov!](https://leonov-in-space.tass.com/)
@@ -10,3 +10,8 @@
 - [Italia: The Airship Crash Chronicle](https://italia.tass.com/)
 - [1812: When Napoleon Ventured East](https://1812.tass.ru/en)
 - [Astronauts](https://spacemen.tass.ru/en)
+
+## My social media:
+- [Facebook](https://www.facebook.com/anton.mizinov)
+- [Twitter](https://twitter.com/anton_mizinov)
+- [Instagram](https://www.instagram.com/quillcraft)
