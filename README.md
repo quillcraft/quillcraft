@@ -1,4 +1,4 @@
-# Hi, I’m Anton Mizinov.
+My name is Anton Mizinov.
 I am a designer and fullstack developer interested in infographics and data visualization.
 
 ## My projects (design & development)
