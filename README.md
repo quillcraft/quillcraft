@@ -1,6 +1,5 @@
-Hi, I’m Anton Mizinov.
-
-I’m interested in infographics and data visualization.
+# Hi, I’m Anton Mizinov.
+I am a designer and fullstack developer interested in infographics and data visualization.
 
 ## My projects (design & development)
 - [Death Rate in Russia](https://mizinov.pro/deaths-in-russia/en/)
@@ -16,3 +15,4 @@ I’m interested in infographics and data visualization.
 - [Facebook](https://www.facebook.com/anton.mizinov)
 - [Twitter](https://twitter.com/anton_mizinov)
 - [Instagram](https://www.instagram.com/quillcraft)
+- [Behance](https://www.behance.net/quillcraft)
