@@ -1,4 +1,4 @@
-My name is Anton.
+Hi! My name is Anton.
 
 I am a designer and fullstack developer interested in infographics and data visualization.
 
