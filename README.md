@@ -13,7 +13,8 @@ I am a designer and fullstack developer interested in infographics and data visu
 - [Astronauts](https://spacemen.tass.ru/en)
 
 ## My social media
+- [Observable](https://observablehq.com/@mizinov?tab=notebooks)
+- [Behance](https://www.behance.net/quillcraft)
 - [Facebook](https://www.facebook.com/anton.mizinov)
 - [Twitter](https://twitter.com/anton_mizinov)
 - [Instagram](https://www.instagram.com/quillcraft)
-- [Behance](https://www.behance.net/quillcraft)
