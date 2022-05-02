@@ -2,7 +2,9 @@ Hi! My name is Anton.
 
 I am a designer and fullstack developer interested in infographics and data visualization.
 
-## My projects (design & development)
+## My projects
+
+### Design & Development
 - [Death Rate in Russia](https://mizinov.pro/deaths-in-russia/en/)
 - [Pandemic Covid-19](https://mizinov.pro/covid/en/)
 - [It’s your turn, Leonov!](https://leonov-in-space.tass.com/)
@@ -11,6 +13,9 @@ I am a designer and fullstack developer interested in infographics and data visu
 - [Italia: The Airship Crash Chronicle](https://italia.tass.com/)
 - [1812: When Napoleon Ventured East](https://1812.tass.ru/en)
 - [Astronauts](https://spacemen.tass.ru/en)
+
+### Development
+- [Шаболовка в авангарде](https://spec.tass.ru/avangard-na-shabolovke)
 
 ## My social media
 - [Observable](https://observablehq.com/@mizinov?tab=notebooks)
