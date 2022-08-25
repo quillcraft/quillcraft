@@ -15,6 +15,7 @@ I am a designer and fullstack developer interested in infographics and data visu
 - [Astronauts](https://spacemen.tass.ru/en)
 
 ### Development
+- [Вперёд, акванавты!](https://spec.tass.ru/podvodnye-doma)
 - [Шаболовка в авангарде](https://spec.tass.ru/avangard-na-shabolovke)
 
 ## My social media
