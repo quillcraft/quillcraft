@@ -5,6 +5,7 @@ I am a designer and fullstack developer interested in infographics and data visu
 ## My projects
 
 ### Design & Development
+- [Дорога жизни](https://spec.tass.ru/doroga)
 - [Pin Globe Radar](https://mizinov.pro/pinglobe)
 - [Высокие отношения](https://spec.tass.ru/vysotki-moskvy)
 - [Death Rate in Russia](https://mizinov.pro/deaths-in-russia/en/)
