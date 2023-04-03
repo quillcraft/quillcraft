@@ -24,6 +24,7 @@ I am a designer and fullstack developer interested in infographics and data visu
 ## My social media
 - [Observable](https://observablehq.com/@mizinov?tab=notebooks)
 - [Behance](https://www.behance.net/quillcraft)
+- [Vkontakte](https://vk.com/quillcraft)
 - [Facebook](https://www.facebook.com/anton.mizinov)
 - [Twitter](https://twitter.com/anton_mizinov)
 - [Instagram](https://www.instagram.com/quillcraft)
