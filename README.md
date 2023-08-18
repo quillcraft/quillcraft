@@ -1,10 +1,11 @@
 Hi! My name is Anton.
 
-I am a designer and fullstack developer interested in infographics and data visualization.
+I am a designer and frontend developer interested in infographics and data visualization.
 
 ## My projects
 
 ### Design & Development
+- [Экзопланеты](https://spec.tass.ru/ekzoplanety)
 - [Дорога жизни](https://spec.tass.ru/doroga)
 - [Pin Globe Radar](https://mizinov.pro/pinglobe)
 - [Высокие отношения](https://spec.tass.ru/vysotki-moskvy)
