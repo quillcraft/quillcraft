@@ -5,6 +5,7 @@ I am a designer and frontend developer interested in infographics and data visua
 ## My projects
 
 ### Design & Development
+- [Кино-квиз](https://yandex.ru/company/researches/2024/kz-movie-quiz)
 - [Как изменилась погода в России с 1950 по 2023 год](https://yandex.ru/company/researches/2024/weather-change)
 - [Экзопланеты](https://spec.tass.ru/ekzoplanety)
 - [Дорога жизни](https://spec.tass.ru/doroga)
