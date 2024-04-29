@@ -31,3 +31,6 @@ I am a designer and frontend developer interested in infographics and data visua
 - [Facebook](https://www.facebook.com/anton.mizinov)
 - [Twitter](https://twitter.com/anton_mizinov)
 - [Instagram](https://www.instagram.com/quillcraft)
+
+## Messenger
+- [Telegram](@antonmizinov)
