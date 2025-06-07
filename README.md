@@ -5,6 +5,7 @@ I am a designer and frontend developer interested in infographics and data visua
 ## My projects
 
 ### Design & Development
+- [Как писали о погоде в русской литературе](https://yandex.ru/company/researches/2025/literary-weather)
 - [Какие блюда заказывают жители разных городов в Яндекс Еде](https://yandex.ru/company/researches/2024/food-in-cities)
 - [Tilemapper](https://mizinov.pro/tilemapper)
 - [Кино-квиз](https://yandex.ru/company/researches/2024/kz-movie-quiz)
