@@ -4,7 +4,8 @@ I am a designer and frontend developer interested in infographics and data visua
 
 ## My projects
 
-### Design & Development
+### Development
+- [Какие места выбирают в кинотеатре](https://yandex.ru/company/researches/2025/cinema-heatmaps)
 - [Как писали о погоде в русской литературе](https://yandex.ru/company/researches/2025/literary-weather)
 - [Какие блюда заказывают жители разных городов в Яндекс Еде](https://yandex.ru/company/researches/2024/food-in-cities)
 - [Tilemapper](https://mizinov.pro/tilemapper)
@@ -13,6 +14,8 @@ I am a designer and frontend developer interested in infographics and data visua
 - [Экзопланеты](https://spec.tass.ru/ekzoplanety)
 - [Дорога жизни](https://spec.tass.ru/doroga)
 - [Pin Globe Radar](https://mizinov.pro/pinglobe)
+- [Вперёд, акванавты!](https://spec.tass.ru/podvodnye-doma)
+- [Шаболовка в авангарде](https://spec.tass.ru/avangard-na-shabolovke)
 - [Высокие отношения](https://spec.tass.ru/vysotki-moskvy)
 - [Death Rate in Russia](https://mizinov.pro/deaths-in-russia/en/)
 - [Pandemic Covid-19](https://mizinov.pro/covid/en/)
@@ -22,10 +25,6 @@ I am a designer and frontend developer interested in infographics and data visua
 - [Italia: The Airship Crash Chronicle](https://italia.tass.com/)
 - [1812: When Napoleon Ventured East](https://1812.tass.ru/en)
 - [Astronauts](https://spacemen.tass.ru/en)
-
-### Development
-- [Вперёд, акванавты!](https://spec.tass.ru/podvodnye-doma)
-- [Шаболовка в авангарде](https://spec.tass.ru/avangard-na-shabolovke)
 
 ## My social media
 - [Observable](https://observablehq.com/@mizinov?tab=notebooks)
