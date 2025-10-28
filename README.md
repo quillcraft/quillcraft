@@ -5,6 +5,7 @@ I am a designer and frontend developer interested in infographics and data visua
 ## My projects
 
 ### Development
+- [Робот-доставщик: От лидара до колёс](https://yandex.ru/company/researches/2025/i-robot)
 - [Какие места выбирают в кинотеатре](https://yandex.ru/company/researches/2025/cinema-heatmaps)
 - [Как писали о погоде в русской литературе](https://yandex.ru/company/researches/2025/literary-weather)
 - [Какие блюда заказывают жители разных городов в Яндекс Еде](https://yandex.ru/company/researches/2024/food-in-cities)
